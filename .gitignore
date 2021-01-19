@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+#other files
+cardatafinal.csv
+carlinks.csv
+carlinks2.csv
+scraper2.py
+testcsv.py
